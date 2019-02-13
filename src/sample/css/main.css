@@ -1,0 +1,17 @@
+.mainBackground{
+    -fx-background-color: #000000;
+}
+
+.newShapesButton{
+    -fx-background-color: black;
+    -fx-border-width: 1px;
+    -fx-border-color: #FFFFFF;
+    -fx-text-fill: #FFFFFF;
+}
+
+.newShapesButton:hover{
+    -fx-background-color: #5F9EA0	;
+    -fx-border-width: 1px;
+    -fx-border-color: #FFFFFF;
+
+}
